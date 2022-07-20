@@ -1,0 +1,20 @@
+* {
+    font-family: Cursive;
+    font-size: 50px;
+    background-color: purple;
+} 
+.thing {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#number-display {
+    text-align: center;
+    color: aqua
+}
+#generate-btn {
+    background-color: aqua;
+}
+
