@@ -3,18 +3,28 @@
     font-size: 50px;
     background-color: purple;
 } 
-.thing {
+.container {
     margin: 0;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
-#number-display {
+
+#number-display1 {
     text-align: center;
     color: aqua
 }
-#generate-btn {
+#generate-btn1 {
+    background-color: aqua;
+    color: purple;
+}
+
+#number-display2 {
+    text-align: center;
+    color: aqua
+}
+#generate-btn2 {
     background-color: aqua;
     color: purple;
 }
